@@ -4,7 +4,9 @@ A machine learning classification project built using [Orange Data Mining](https
 
 ## 📋 Project Overview
 
-This project demonstrates the application of machine learning classification techniques using Orange's visual workflow interface. The project includes complete workflows, datasets, and comprehensive documentation of the analysis process.
+This project demonstrates the application of machine learning classification techniques using Orange's visual workflow interface, with a focus on:
+- **Data Prediction**: Building predictive models using classification algorithms
+- **Image Preprocessing**: Processing and preparing image data for machine learning tasks. The project includes complete workflows, datasets, and comprehensive documentation of the analysis process.
 
 ## 🗂️ Repository Structure
 
